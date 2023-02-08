@@ -2,4 +2,4 @@ Hello this is a simple text file
 
 this is new line added.
 
-this file is edited
+
